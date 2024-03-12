@@ -24,4 +24,4 @@ Librerías usadas:
 <br>
 
 ### Procesada
-<img src="/examples/foto_to_test_nobg.png" height="350" >
+<img src="/examples/foto_to_test_whitebg.png" height="350" >
