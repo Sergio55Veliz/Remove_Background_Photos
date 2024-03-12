@@ -18,8 +18,10 @@ Librerías usadas:
 
 # Ejemplo de aplicación
 
-Original
-![]()
+### Original
+<img src="/examples/foto_to_test.png" height="350" >
+<br>
+<br>
 
-Procesada
-![]()
+### Procesada
+<img src="/examples/foto_to_test_nobg.png" height="350" >
