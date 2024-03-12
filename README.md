@@ -19,9 +19,16 @@ Librerías usadas:
 # Ejemplo de aplicación
 
 ### Original
-<img src="/examples/foto_to_test.png" height="350" >
+<img src="/examples/foto_to_test.jpg" height="350" >
 <br>
 <br>
 
 ### Procesada
 <img src="/examples/foto_to_test_whitebg.png" height="350" >
+
+# Background color
+Cambia el color de fondo en la [línea 105](https://github.com/Sergio55Veliz/Remove_Background_Photos/blob/main/by_rembg.py#L105)
+``` python
+    BGR_Color = (255, 255, 255) # Background Color 
+```
+Está en código RGB.
